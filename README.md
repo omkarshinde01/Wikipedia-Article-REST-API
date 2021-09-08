@@ -1,2 +1,2 @@
 # Wikipedia-Article-REST-API
-Rum npm i to Install Dependancy.
+Run npm i to Install Dependancy.
